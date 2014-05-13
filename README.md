@@ -1,6 +1,7 @@
-# perceptualdiff - a program that compares two images using
+# perceptualdiff (pdiff)
 ====
-a perceptually based image metric.
+a program that compares two images using a perceptually based image metric.
+
 Copyright (C) 2006 Yangli Hector Yee
 yeehector@users.sourceforge.net
 http://pdiff.sourceforge.net/
